@@ -17,4 +17,4 @@ EXPOSE 5000
 # Run the application:
 #####Enter the Command to run the app here. The line below is incomplete
 #########Enter code here#################
-CMD python app.py
+CMD python /app/app.py
